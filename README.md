@@ -3,10 +3,14 @@
 
 [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-indigo?style=flat-square&logo=github)](https://camille1223.github.io/ai-sharing-slides/)
 [![Slides](https://img.shields.io/badge/Slides-21%20页-7858FF?style=flat-square)](https://camille1223.github.io/ai-sharing-slides/)
+[![Style](https://img.shields.io/badge/Style-Polish%20%2B%20Indigo-B894FF?style=flat-square)](https://camille1223.github.io/ai-sharing-slides/)
+[![Built with](https://img.shields.io/badge/Built%20with-Claude%20Code%20%2B%20%2Fsap--slides-5D36FF?style=flat-square)](https://github.com/Camille1223/ai-sharing-slides)
 
 > 一场关于 Claude、Claude Code、MCP 与 Skill 的内部分享演讲稿（HTML 格式，21 张 slides）。
+> 使用 Claude Code + `/sap-slides` Skill 生成，Indigo 调色板 + Polish 视觉优化，单文件零依赖。
 >
 > An internal sharing session on Claude, Claude Code, MCP and Skills — delivered as a self-contained HTML presentation (21 slides).
+> Built with Claude Code + `/sap-slides` skill. Indigo palette, Polish visual upgrade, single HTML file, zero dependencies.
 
 **Live Demo → [camille1223.github.io/ai-sharing-slides](https://camille1223.github.io/ai-sharing-slides/)**
 
