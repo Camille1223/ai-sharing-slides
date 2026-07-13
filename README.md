@@ -124,15 +124,17 @@
 
 **中文**
 - 起因：发票组每次手工做付款通知，模板固定但重复劳动多
-- 方案：网页工具，拖入 `.docx` 模板 + Excel 数据，一键批量生成 Word + PDF 压缩包
-- 部署：GitHub Pages（前端免费） + Render（后端 PDF 转换免费）
-- 链接：[camille1223.github.io/Payment-Notice-Tool](https://camille1223.github.io/Payment-Notice-Tool/)
+- 方案：网页工具，上传 `.docx` 模板 + Excel 数据，一键批量生成 Word + PDF 压缩包；图片、印章、Logo 完整保留
+- 优化：unoserver 常驻 LibreOffice 进程，批量 PDF 转换速度大幅提升；异步任务 + 实时进度条，不再超时
+- 部署：Render 免费云托管（后端 Python + Flask）
+- 链接：[payment-notice-tool.onrender.com](https://payment-notice-tool.onrender.com)
 
 **English**
 - Pain point: invoice team manually producing payment notices — fixed template, repetitive work
-- Solution: web tool — drag in `.docx` template + Excel data → one click → ZIP with all Word + PDF files
-- Deployed on GitHub Pages (free frontend) + Render (free backend for PDF conversion)
-- Link: [camille1223.github.io/Payment-Notice-Tool](https://camille1223.github.io/Payment-Notice-Tool/)
+- Solution: web tool — upload `.docx` template + Excel data → one click → ZIP with all Word + PDF files; images, stamps, and logos fully preserved
+- Optimized: unoserver keeps LibreOffice resident for fast batch PDF conversion; async job model with real-time progress bar eliminates timeout errors
+- Deployed on Render (free tier, Python + Flask backend)
+- Link: [payment-notice-tool.onrender.com](https://payment-notice-tool.onrender.com)
 
 #### 失败的项目 · The Lesson: Fake Copilot
 
