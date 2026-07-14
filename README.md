@@ -154,12 +154,12 @@
 
 **中文**
 - **GitHub Pages** — 前端免费托管，分享链接即可使用
-- **Render** — 后端免费云托管，一次设置，永久运行
+- **Render** — 后端免费云托管，一次设置，永久运行；查看日志：[dashboard.render.com](https://dashboard.render.com) → 选服务 → **Logs**
 - 一次性投入，长期回报：第一次建好之后，所有人直接点 Live Demo 就能用
 
 **English**
 - **GitHub Pages** — Free frontend hosting; share the link, anyone can use it instantly
-- **Render** — Free backend cloud hosting; one-time setup, runs forever
+- **Render** — Free backend cloud hosting; one-time setup, runs forever; check logs at [dashboard.render.com](https://dashboard.render.com) → select service → **Logs**
 - One-time investment, long-term payoff: build once, the whole team benefits always
 
 ---
